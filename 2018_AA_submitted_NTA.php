@@ -68,9 +68,9 @@
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
-		<p><strong>The review process for the 2018-2022 Action Agenda Near Term Actions (NTAs) is now complete! </strong><strong> </strong><br>
-635 NTAs were put forward to be reviewed and evaluated for adoption into the 2018-2022 Action Agenda. You can view them in the tool below.
-		<p><a href="#process">LEARN ABOUT THE PROCESS</a> | <a href="#procedural">NTA PROCEDURAL RECORDS</a> | <a href="#appeal">APPEALING AN NTA EVALUATION</a></p>
+		<p><strong>The review of 635 Near Term Actions is now complete!</strong><strong> </strong><br>
+	    Local and regional experts in habitat restoration, shellfish, stormwater pollution, and salmon recovery <a href="https://medium.com/puget-sound-partnership/2018-action-agenda-nta-review-camp-a-huge-success-bf88ef2588cb">came together</a> to review NTAs using the criteria provided in the <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">Solicitation</a>. NTAs are ranked from 1 to 4, with 4 being the highest. NTAs ranked 2, 3, or 4 will be recommended for adoption into the 2018-2022 Action Agenda and are listed below. NTAs that received a final rank score of 1 are not included in this published list. Summaries from the regional and local evaluations for each NTA can be found by selecting the link adjacent to the NTA Tier.        
+<p><a href="#process">LEARN ABOUT THE PROCESS</a> | <a href="#procedural">NTA PROCEDURAL RECORDS</a> | <a href="#appeal">APPEALING AN NTA EVALUATION</a></p>
 			
 <!-- Nav tabs -->
 <ul class="nav nav-tabs" role="tablist">
@@ -118,35 +118,20 @@
 
 </div>
 			<div id="process"></div>
-			<h2>About the NTA prioritization Process</h2>
-			<p>NTAs were received from a diversity of organizations, including federal, state, local, and tribal government agencies; non-governmental organizations; academic institutions; foundations; and private businesses. NTAs address most of the <a href="https://pspwa.box.com/s/7t7c4eszegdqh5gu5koirndiy0nr96vc">Regional Priorities</a> outlined in the NTA <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">Solicitation</a>, and represent all regions of Puget Sound. All NTAs were reviewed through robust local and regional processes with habitat, shellfish, stormwater and salmon experts from across the Sound. </p>
-			<p>
-			NTAs were prioritized into four categories using the process and criteria outlined in the <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">Solicitation</a>.  The purpose of the prioritization was to group the NTAs relative to how much they are expected to advance recovery over the next 4 years. NTAs that are grouped into the following three categories (tiers) will be recommended for adoption into the 2018-2022 Action Agenda: outstanding (4), good (3), acceptable with revisions (2). Those NTAs that are grouped into category 1 (poor) will not be recommended for adoption. </p>
-			<p>The results of evaluations are posted in the tables below. Recommended NTAs are also presented and searchable by Vital Sign, owner organization, Local Integrating Organization (LIO), Regional Priority approach, and final tier. For each NTA, a summary from the regional and local evaluations are provided by selecting the final tier. </p>
-			<ul>
-				<li>For all NTAs: Scores from the regional Strategic Initiative Advisory Team review are provided for each evaluation criteria listed in the Solicitation. Justification is provided for any scores of 1 or 2. </li>
-				<li>For all NTAs that are proposed to be implemented in one or two LIO geographies: Final score from the relevant LIOs are provided. Justification is provided for any scores of 1 or 2.</li>
-				<li>For some NTAs that are proposed to be implemented in two or more LIO geographies: LIOs were provided an option to review those NTAs. Where an LIO review was conducted, scores for each evaluation criteria listed in the Solicitation is provided. Justification is provided for any scores of 1 or 2.</li>
-			</ul>
-			<p>All NTAs that received a final score of 1 are not included in this published list. The Partnership has sent individual emails to relevant NTA managers to notify them on the results. </p>
-			<div id="procedural"></div>
+			<h2>How to appeal the evaluation of an nta</h2>
+			<p>If an NTA owner would like to appeal the process for the ranking of their NTA, they may submit a petition using this form &lt;LINK&gt;. <strong>Petitions must be received by 5:00 pm (PST), Wednesday, August 15, 2018</strong>. The Partnership will confirm receipt via email.<br>
+Petition forms should be emailed to:  <br>
+            Heather Saunders Benson, Action Agenda Manager <br>
+            <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a></p>
+        <p>A committee of the chairs and vice-chairs of the Partnership&rsquo;s boards will review and adjudicate the petitions by <strong>Tuesday, August 24, 2018</strong>. The committee will review concerns about process only in accordance with the procedures stated in the <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">2018-2022 Action Agenda Solicitation for Near Term Actions</a>. <br>
+                                                                                                                                        <br>
+          If you have any questions, please contact: <strong>Heather Saunders Benson, 360.464.2005</strong></p>
+<div id="procedural"></div>
 			<h2>NTA Procedural Records </h2>
-			<p>Procedural records summarizing how the NTA development and review process were implemented are available at the links below: <br>
-			Access the procedural records from the Local Integrating Organizations review process. &lt;INSERT LINK&gt; <br>
-			Access the procedural record from the regional Strategic Initiative Advisory Team review process. &lt;INSERT LINK&gt; <br>
-			Access a full list of reviewers. &lt;INSERT LINK&gt; </p>
-			<div id="appeal"></div>
-		<h2>How can a NTA owner appeal the evaluation of their NTA? </h2>
-				<p>Any NTA manager who feels that their NTA was not fairly and consistently processed in accordance with the procedures stated in the <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">2018-2022 Action Agenda Solicitation for Near Term Actions</a> may submit a petition to the Partnership. </p>
-			<p>The period for submitting a petition will begin on Wednesday, August 1, 2018, and will close on Wednesday, August 15, 2018. <strong>To submit a petition, a petition form must be filled out and emailed to the Partnership by 5:00 pm (PST), Wednesday, August 15, 2018</strong>. <br>
-				Access the NTA Petition Form &lt;INSERT LINK&gt;. <br>
-				Petition forms should be emailed to:  <br>
-				            Heather Saunders Benson, Action Agenda Manager<br>
-				            Puget Sound Partnership <br>
-				            <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a> <br>
-				            360.464.2005  </p>
-			<p>Once a petition has been emailed to the Partnership, confirmation that the petition has been received the petition will be provided to the NTA manager via email. A committee of the chairs and vice-chairs of the Partnership&rsquo;s boards will review and adjudicate the petitions by Tuesday, August 24, 2018. The committee will review process concerns only, and not reevaluate the merits of an NTA.  <br>
-				If you have any questions about the petition process, please contact Heather Saunders Benson, Action Agenda Planning Manager, at <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a>, or by phone at 360.464.2005.</p>
+			<p>Procedural records for the regional Strategic Initiative Advisory Teams and the Local Integrating Organizations review process can be accessed here. </p>
+			<p>A full roster of the Strategic Initiative Advisory Teams and Local Integrating Organizations reviewers can be accessed here. &lt;INSERT LINK&gt;</p>
+<div id="appeal"></div>
+		<h2>&nbsp;</h2>
 			
 	
 
