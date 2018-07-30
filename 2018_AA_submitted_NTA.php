@@ -118,9 +118,9 @@
 
 
 </div>
-			<div id="process"></div>
+			<div id="appeal"></div>
 			<h2>How to appeal the evaluation of an nta</h2>
-			<p>If an NTA owner would like to appeal the process for the ranking of their NTA, they may submit a petition using this form &lt;LINK&gt;. <strong>Petitions must be received by 5:00 pm (PST), Wednesday, August 15, 2018</strong>. The Partnership will confirm receipt via email.</p>
+			<p>If an NTA owner would like to appeal the process for the ranking of their NTA, they may submit a petition using <a href="https://pspwa.box.com/s/xjsrzbw0ziubi5f0ul3ov9g5o8ik36mj">this form.</a><strong> Petitions must be received by 5:00 pm (PST), Wednesday, August 15, 2018</strong>. The Partnership will confirm receipt via email.</p>
 <P>Petition forms should be emailed to:  <br>
             Heather Saunders Benson, Action Agenda Manager <br>
             <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a></p>
@@ -129,11 +129,9 @@
           If you have any questions, please contact: <strong>Heather Saunders Benson, 360.464.2005</strong></p>
 <div id="procedural"></div>
 			<h2>NTA Procedural Records </h2>
-			<p>Procedural records for the regional Strategic Initiative Advisory Teams and the Local Integrating Organizations review process can be accessed here. &lt;INSERT LINK&gt;</p>
-			<p>A full roster of the Strategic Initiative Advisory Teams and Local Integrating Organizations reviewers can be accessed here. &lt;INSERT LINK&gt;</p>
-<div id="appeal"></div>
-		<h2>&nbsp;</h2>
+			<p>Procedural records for the regional Strategic Initiative Advisory Teams and the Local Integrating Organizations review process can be accessed <a href="https://pspwa.box.com/s/aqpd94v0gxu88y3wv1fqkoa58a5q1s8n">here.</a></p>
 			
+<p>A full roster of the Strategic Initiative Advisory Teams and Local Integrating Organizations reviewers can be accessed <a href="https://pspwa.box.com/s/exl0ld9juo59v6lbychnkw8jtty4p4rt">here.</a></p>
 	
 
 	
