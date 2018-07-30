@@ -68,9 +68,10 @@
 		</div>
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
-		<p><strong>The review of 635 Near Term Actions is now complete!</strong><strong> </strong><br>
-	    Local and regional experts in habitat restoration, shellfish, stormwater pollution, and salmon recovery <a href="https://medium.com/puget-sound-partnership/2018-action-agenda-nta-review-camp-a-huge-success-bf88ef2588cb">came together</a> to review NTAs using the criteria provided in the <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">Solicitation</a>. NTAs are ranked from 1 to 4, with 4 being the highest. NTAs ranked 2, 3, or 4 will be recommended for adoption into the 2018-2022 Action Agenda and are listed below. NTAs that received a final rank score of 1 are not included in this published list. Summaries from the regional and local evaluations for each NTA can be found by selecting the link adjacent to the NTA Tier.        
-<p><a href="#process">LEARN ABOUT THE PROCESS</a> | <a href="#procedural">NTA PROCEDURAL RECORDS</a> | <a href="#appeal">APPEALING AN NTA EVALUATION</a></p>
+		<p><strong>The review of 635 Near Term Actions is now complete!</strong><strong> </strong>
+			
+	  <p>Local and regional experts in habitat restoration, shellfish, stormwater pollution, and salmon recovery <a href="https://medium.com/puget-sound-partnership/2018-action-agenda-nta-review-camp-a-huge-success-bf88ef2588cb">came together</a> to review NTAs using the criteria provided in the <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">Solicitation</a>. NTAs are ranked from 1 to 4, with 4 being the highest. NTAs ranked 2, 3, or 4 will be recommended for adoption into the 2018-2022 Action Agenda and are listed below. NTAs that received a final rank score of 1 are not included in this published list. Summaries from the regional and local evaluations for each NTA can be found by selecting the link adjacent to the NTA Tier.  </p>      
+<p> <a href="#appeal">APPEALING AN NTA EVALUATION | </a><a href="#procedural">NTA PROCEDURAL RECORDS</a> </p>
 			
 <!-- Nav tabs -->
 <ul class="nav nav-tabs" role="tablist">
@@ -119,16 +120,16 @@
 </div>
 			<div id="process"></div>
 			<h2>How to appeal the evaluation of an nta</h2>
-			<p>If an NTA owner would like to appeal the process for the ranking of their NTA, they may submit a petition using this form &lt;LINK&gt;. <strong>Petitions must be received by 5:00 pm (PST), Wednesday, August 15, 2018</strong>. The Partnership will confirm receipt via email.<br>
-Petition forms should be emailed to:  <br>
+			<p>If an NTA owner would like to appeal the process for the ranking of their NTA, they may submit a petition using this form &lt;LINK&gt;. <strong>Petitions must be received by 5:00 pm (PST), Wednesday, August 15, 2018</strong>. The Partnership will confirm receipt via email.</p>
+<P>Petition forms should be emailed to:  <br>
             Heather Saunders Benson, Action Agenda Manager <br>
             <a href="mailto:heather.benson@psp.wa.gov">heather.benson@psp.wa.gov</a></p>
-        <p>A committee of the chairs and vice-chairs of the Partnership&rsquo;s boards will review and adjudicate the petitions by <strong>Tuesday, August 24, 2018</strong>. The committee will review concerns about process only in accordance with the procedures stated in the <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">2018-2022 Action Agenda Solicitation for Near Term Actions</a>. <br>
+        <p>A committee of the chairs and vice-chairs of the Partnership&rsquo;s boards will review and adjudicate the petitions by <strong>Tuesday, August 24, 2018</strong>. The committee will review concerns about process only in accordance with the procedures stated in the <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">2018-2022 Action Agenda Solicitation for Near Term Actions</a>. 
                                                                                                                                         <br>
           If you have any questions, please contact: <strong>Heather Saunders Benson, 360.464.2005</strong></p>
 <div id="procedural"></div>
 			<h2>NTA Procedural Records </h2>
-			<p>Procedural records for the regional Strategic Initiative Advisory Teams and the Local Integrating Organizations review process can be accessed here. </p>
+			<p>Procedural records for the regional Strategic Initiative Advisory Teams and the Local Integrating Organizations review process can be accessed here. &lt;INSERT LINK&gt;</p>
 			<p>A full roster of the Strategic Initiative Advisory Teams and Local Integrating Organizations reviewers can be accessed here. &lt;INSERT LINK&gt;</p>
 <div id="appeal"></div>
 		<h2>&nbsp;</h2>
