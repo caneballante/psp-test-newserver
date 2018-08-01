@@ -127,7 +127,7 @@
         <p>A committee of the chairs and vice-chairs of the Partnership&rsquo;s boards will review and adjudicate the petitions by <strong>Tuesday, August 24, 2018</strong>. The committee will review concerns about process only in accordance with the procedures stated in the <a href="https://pspwa.box.com/s/p847yyo5pfjm0dk59btk22ozmt5a2w1d">2018-2022 Action Agenda Solicitation for Near Term Actions</a>. 
                                                                                                                                         <br>
           If you have any questions, please contact: <strong>Heather Saunders Benson, 360.464.2005</strong></p>
-<div id="procedural"></div>
+
 			<h2>NTA Procedural Records </h2>
 			<p>Procedural records for the regional Strategic Initiative Advisory Teams and the Local Integrating Organizations review process can be accessed <a href="https://pspwa.box.com/s/aqpd94v0gxu88y3wv1fqkoa58a5q1s8n">here.</a></p>
 			
